@@ -43,9 +43,9 @@ this is a feature not a bug, say the fans, because in Emacs you can change
 everything. Now there are some starter kits like
 [Doom Emacs](https://github.com/doomemacs/doomemacs)
 [Spacemacs](https://www.spacemacs.org/)
-[Centaur Emacs](https://github.com/seagle0128/.emacs.d) and many more,
+[Danny Emacs](https://github.com/seagle0128/.emacs.d) and many more,
 and it's a good idea starting with one of those, in fact, this
-configuration is basically Centaur Emacs adapted to my own use.
+configuration is basically Danny Emacs adapted to my own use.
 
 
 ## Features
@@ -88,7 +88,7 @@ Please refer to [Installing Emacs](http://wikemacs.org/index.php/Installing_Emac
 
 ### Dotfiles
 
-Recommend to use [Centaur Dotfiles](https://github.com/seagle0128/dotfiles).
+Recommend to use [Danny Dotfiles](https://github.com/seagle0128/dotfiles).
 
 ## Quick Start
 
@@ -116,7 +116,7 @@ emacs -Q -l ~/.emacs.d/init-mini.el
 ### Update
 
 ```emacs-lisp
-# Update Centaur Emacs, including configurations and packages
+# Update Danny Emacs, including configurations and packages
 M-x danny-update
 
 # Update Emacs configurations only
