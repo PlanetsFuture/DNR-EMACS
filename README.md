@@ -160,9 +160,6 @@ For Example:
 (setq danny-prettify-org-symbols-alist nil)  ; Alist of symbol prettifications for `org-mode'
 ```
 
-The default package archives is `melpa`. You can change it in `custom.el`, or
-set manually via `M-x set-package-archives` anytime.
-
 For the personal configurations, you could put to `~/.emacs.d/custom-post.org`
 or`~/.emacs.d/custom-post.el`.
 
