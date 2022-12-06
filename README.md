@@ -43,7 +43,7 @@ this is a feature not a bug, say the fans, because in Emacs you can change
 everything. Now there are some starter kits like
 [Doom Emacs](https://github.com/doomemacs/doomemacs)
 [Spacemacs](https://www.spacemacs.org/)
-[Danny Emacs](https://github.com/seagle0128/.emacs.d) and many more,
+[Centaur Emacs](https://github.com/seagle0128/.emacs.d) and many more,
 and it's a good idea starting with one of those, in fact, this
 configuration is basically Danny Emacs adapted to my own use.
 
