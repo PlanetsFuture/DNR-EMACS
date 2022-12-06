@@ -96,7 +96,7 @@ Recommend to use [Danny Dotfiles](https://github.com/seagle0128/dotfiles).
 
 ```shell
 mv ~/.emacs.d ~/.emacs.d.bak
-git clone  https://github.com/PlanetsFuture/DNR-EMACA ~/.emacs.d
+git clone https://github.com/PlanetsFuture/DNR-EMACA ~/.emacs.d
 ```
 
 Then start Emacs. Wait for a while to install packages at the first startup.
