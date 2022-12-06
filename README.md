@@ -45,7 +45,7 @@ everything. Now there are some starter kits like
 [Spacemacs](https://www.spacemacs.org/)
 [Centaur Emacs](https://github.com/seagle0128/.emacs.d) and many more,
 and it's a good idea starting with one of those, in fact, this
-configuration is basically Danny Emacs adapted to my own use.
+configuration is basically Centaur Emacs adapted to my own use.
 
 
 ## Features
