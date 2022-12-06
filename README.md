@@ -20,14 +20,10 @@
     - [Customize Group](#customize-group)
     - [Manual](#manual)
   - [Hydra](#hydra)
-  - [Screenshots](#screenshots)
-  - [FAQ](#faq)
-  - [Donate](#donate)
 
 <!-- markdown-toc end -->
 
-GNU Emacs is an old pieace of software that has been of great use and benefit
-for a lot of people. You can configure it as you wish, which is
+GNU Emacs is an old piece of software that has been of great use and benefit to a lot of people. You can configure it as you wish, which is
 advantageous if you feel attracted to the idea of molding this tool
 to your needs, this is a disadvantage too, since you may eventually
 spend too much time configuring Emacs instead of doing other important
