@@ -6,7 +6,7 @@
 ;;; Code:
 
 (defconst danny-homepage
-  "https://github.com/seagle0128/.emacs.d"
+  "https://github.com/PlanetsFuture/DNR-EMACS"
   "The Github page of Danny Emacs.")
 
 (defconst danny-custom-example-file
