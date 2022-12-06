@@ -148,7 +148,6 @@ For Example:
 (setq danny-socks-proxy "127.0.0.1:1086")    ; SOCKS proxy
 (setq danny-server t)                        ; Enable `server-mode' or not: t or nil
 (setq danny-icon t)                          ; Display icons or not: t or nil
-(setq danny-package-archives 'melpa)         ; Package repo: melpa, emacs-cn, bfsu, netease, sjtu, tencent, tuna or ustc
 (setq danny-theme 'auto)                     ; Color theme: auto, random, system, default, pro, dark, light, warm, cold, day or night
 (setq danny-completion-style 'minibuffer)    ; Completion display style: minibuffer or childframe
 (setq danny-dashboard nil)                   ; Display dashboard at startup or not: t or nil
@@ -157,8 +156,6 @@ For Example:
 (setq danny-lsp-format-disable-on-save t)    ; disable the on save formatting for all files
 (setq danny-lsp-format-on-save-ignore-modes '(c-mode c++-mode python-mode markdown-mode)) ; Ignore format on save for some languages
 (setq danny-tree-sitter t)                   ; Enable `tree-sitter' or not: t or nil
-(setq danny-chinese-calendar nil)            ; Support Chinese calendar or not: t or nil
-(setq danny-player t)                        ; Enable players or not: t or nil
 (setq danny-prettify-symbols-alist nil)      ; Alist of symbol prettifications. Nil to use font supports ligatures.
 (setq danny-prettify-org-symbols-alist nil)  ; Alist of symbol prettifications for `org-mode'
 ```
