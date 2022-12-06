@@ -60,7 +60,7 @@
                               (when (fboundp 'page-break-lines-mode)
                                 (page-break-lines-mode 1))))
     :init
-    (setq dashboard-banner-logo-title "DNR EMACS - Enjoy Programming & Writing"
+    (setq dashboard-banner-logo-title "DNR EMACS - For programming and writing"
           dashboard-startup-banner (or danny-logo 'official)
           dashboard-page-separator "\n\f\n"
           dashboard-center-content t
