@@ -59,8 +59,7 @@ configuration is basically Centaur Emacs adapted to my own use.
   - Python/Perl/PHP/Shell/Powershell/Bat
   - JavaScript/Typescript/JSON/YAML
   - HTML/CSS/XML
-  - Golang/Swift/Rust/Dart/Elixir
-  - ...
+  - Golang/Swift
 - Auto completion.
 - Fly syntax check.
 - Fly spell check.
