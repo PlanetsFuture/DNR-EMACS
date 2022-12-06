@@ -86,10 +86,6 @@ configuration is basically Danny Emacs adapted to my own use.
 
 Please refer to [Installing Emacs](http://wikemacs.org/index.php/Installing_Emacs).
 
-### Dotfiles
-
-Recommend to use [Danny Dotfiles](https://github.com/seagle0128/dotfiles).
-
 ## Quick Start
 
 ### Install
